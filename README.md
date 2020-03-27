@@ -85,6 +85,11 @@
   - [International users](https://gitter.im/element-en/Lobby)
   - [Chinese users](https://gitter.im/ElemeFE/element)
 
+## Build
+```shell
+npm build dist
+```
+
 ## Install
 ```shell
 npm install element-ui -S

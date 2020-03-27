@@ -1,6 +1,10 @@
 # element-theme-chalk
 > element component chalk theme.
 
+## Build
+```shell
+ npm run build
+```
 
 ## Installation
 ```shell
